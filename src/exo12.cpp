@@ -5,6 +5,7 @@
 // int main()
 // {
 //     sil::Image image{500/*width*/, 500/*height*/};
+//
 //     float const rayon{100};
 //     float const epaisseur{10};
 //
